@@ -1,0 +1,9 @@
+transformers
+torch
+streamlit
+gradio
+pandas
+pyngrok
+gtts
+deep_translator
+flask_cors
