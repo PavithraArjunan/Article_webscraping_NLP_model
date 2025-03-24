@@ -105,6 +105,10 @@ GET /get_company_data?company_name=<company_name>
   ```
 
 ---
+## How to use utils.py in backend.py
+```bash
+from utils import analyze_sentiment, identify_company, extract_topics, text_to_speech, scrape_article
+ ```
 
 ## Future Improvements
 - Implement real-time news scraping.
